@@ -17,7 +17,7 @@ data2.assign(tf.tensor1d([4, 12, 5, 6, 56, 3, 45, 3]));
 data2.print();
 
 
-// this is where we assign new values with 1 dimension
+// this is where we assign new values with 2 dimension
 data3.assign(tf.tensor2d([[4, 12, 5, 6],[4, 12, 5, 6],[4, 12, 5, 6], [56, 3, 45, 3]]));
 data3.print();
 
